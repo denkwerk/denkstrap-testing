@@ -1,0 +1,4 @@
+test:
+  description: 'Testing task for SCSS linting'
+  tasks:
+    - 'scsslint'

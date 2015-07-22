@@ -1,0 +1,9 @@
+// Good style
+.stage__teaser__headline__icon {
+    color: green;
+}
+
+// Bad style
+.stage .teaser .headline .icon {
+    color: red;
+}
