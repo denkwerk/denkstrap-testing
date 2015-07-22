@@ -1,4 +1,4 @@
-# denkstrap-test
+# denkstrap testing
 
 denkwerk standard testing tools
 
